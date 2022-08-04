@@ -76,9 +76,7 @@ tr img {
       
       width: 100%;
     }
-    form {
-        display: inline-flexbox;
-    }
+    
   }
 .red{
     color:red;
